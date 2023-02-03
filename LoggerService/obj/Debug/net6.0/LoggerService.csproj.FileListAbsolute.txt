@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\Meet  Kerasiya\source\repos\configs\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
